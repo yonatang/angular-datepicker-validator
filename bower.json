@@ -1,0 +1,19 @@
+{
+  "name": "angular-datepicker-validator",
+  "version": "0.1.0-SNAPSHOT",
+  "main":"./datepicker-validator.js",
+  "homepage":"http://github.com/yonatang/angular-datepicker-validator",
+  "dependencies": {
+    "angular-bootstrap": "0.12.0",
+    "angular-moment": "0.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/yonatang/angular-datepicker-validator.git"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.2.25",
+    "angular-scenario": "1.2.25",
+    "bootstrap":"3.3.2"
+  }
+}
